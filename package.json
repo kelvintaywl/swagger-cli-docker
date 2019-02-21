@@ -1,0 +1,13 @@
+{
+  "name": "swagger-cli-docker",
+  "version": "1.0.0",
+  "description": "deps for dockerized image of swagger-cli tool",
+  "main": "index.js",
+  "repository": "git@github.com:kelvintaywl/swagger-cli-docker.git",
+  "author": "kelvintaywl <kelvintaywl@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "swagger-cli": "^2.2.1"
+  }
+}
